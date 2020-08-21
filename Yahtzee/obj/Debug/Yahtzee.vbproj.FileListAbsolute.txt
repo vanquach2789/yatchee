@@ -1,0 +1,60 @@
+E:\Yahtzee\Yahtzee\bin\Debug\Yahtzee.exe.config
+E:\Yahtzee\Yahtzee\bin\Debug\Yahtzee.exe
+E:\Yahtzee\Yahtzee\bin\Debug\Yahtzee.pdb
+E:\Yahtzee\Yahtzee\bin\Debug\Yahtzee.xml
+E:\Yahtzee\Yahtzee\obj\Debug\Yahtzee.vbprojAssemblyReference.cache
+E:\Yahtzee\Yahtzee\obj\Debug\Yahtzee.Yahtzee.resources
+E:\Yahtzee\Yahtzee\obj\Debug\Yahtzee.Resources.resources
+E:\Yahtzee\Yahtzee\obj\Debug\Yahtzee.vbproj.GenerateResource.cache
+E:\Yahtzee\Yahtzee\obj\Debug\Yahtzee.vbproj.CoreCompileInputs.cache
+E:\Yahtzee\Yahtzee\obj\Debug\Yahtzee.exe
+E:\Yahtzee\Yahtzee\obj\Debug\Yahtzee.xml
+E:\Yahtzee\Yahtzee\obj\Debug\Yahtzee.pdb
+C:\Users\Scaper84\Documents\Yahtzee\Yahtzee\bin\Debug\Yahtzee.exe.config
+C:\Users\Scaper84\Documents\Yahtzee\Yahtzee\bin\Debug\Yahtzee.exe
+C:\Users\Scaper84\Documents\Yahtzee\Yahtzee\bin\Debug\Yahtzee.pdb
+C:\Users\Scaper84\Documents\Yahtzee\Yahtzee\bin\Debug\Yahtzee.xml
+C:\Users\Scaper84\Documents\Yahtzee\Yahtzee\obj\Debug\Yahtzee.vbprojAssemblyReference.cache
+C:\Users\Scaper84\Documents\Yahtzee\Yahtzee\obj\Debug\Yahtzee.Yahtzee.resources
+C:\Users\Scaper84\Documents\Yahtzee\Yahtzee\obj\Debug\Yahtzee.Resources.resources
+C:\Users\Scaper84\Documents\Yahtzee\Yahtzee\obj\Debug\Yahtzee.vbproj.GenerateResource.cache
+C:\Users\Scaper84\Documents\Yahtzee\Yahtzee\obj\Debug\Yahtzee.vbproj.CoreCompileInputs.cache
+C:\Users\Scaper84\Documents\Yahtzee\Yahtzee\obj\Debug\Yahtzee.exe
+C:\Users\Scaper84\Documents\Yahtzee\Yahtzee\obj\Debug\Yahtzee.xml
+C:\Users\Scaper84\Documents\Yahtzee\Yahtzee\obj\Debug\Yahtzee.pdb
+D:\Yahtzee\Yahtzee\obj\Debug\Yahtzee.vbprojAssemblyReference.cache
+D:\Yahtzee\Yahtzee\obj\Debug\Yahtzee.Yahtzee.resources
+D:\Yahtzee\Yahtzee\obj\Debug\Yahtzee.Resources.resources
+D:\Yahtzee\Yahtzee\obj\Debug\Yahtzee.vbproj.GenerateResource.cache
+D:\Yahtzee\Yahtzee\obj\Debug\Yahtzee.vbproj.CoreCompileInputs.cache
+D:\Yahtzee\Yahtzee\obj\Debug\Yahtzee.exe
+D:\Yahtzee\Yahtzee\obj\Debug\Yahtzee.xml
+D:\Yahtzee\Yahtzee\obj\Debug\Yahtzee.pdb
+D:\Yahtzee\Yahtzee\bin\Debug\Yahtzee.exe.config
+D:\Yahtzee\Yahtzee\bin\Debug\Yahtzee.exe
+D:\Yahtzee\Yahtzee\bin\Debug\Yahtzee.pdb
+D:\Yahtzee\Yahtzee\bin\Debug\Yahtzee.xml
+C:\Yahtzee\Yahtzee\bin\Debug\Yahtzee.exe.config
+C:\Yahtzee\Yahtzee\bin\Debug\Yahtzee.exe
+C:\Yahtzee\Yahtzee\bin\Debug\Yahtzee.pdb
+C:\Yahtzee\Yahtzee\bin\Debug\Yahtzee.xml
+C:\Yahtzee\Yahtzee\obj\Debug\Yahtzee.vbprojAssemblyReference.cache
+C:\Yahtzee\Yahtzee\obj\Debug\Yahtzee.Yahtzee.resources
+C:\Yahtzee\Yahtzee\obj\Debug\Yahtzee.Resources.resources
+C:\Yahtzee\Yahtzee\obj\Debug\Yahtzee.vbproj.GenerateResource.cache
+C:\Yahtzee\Yahtzee\obj\Debug\Yahtzee.vbproj.CoreCompileInputs.cache
+C:\Yahtzee\Yahtzee\obj\Debug\Yahtzee.exe
+C:\Yahtzee\Yahtzee\obj\Debug\Yahtzee.xml
+C:\Yahtzee\Yahtzee\obj\Debug\Yahtzee.pdb
+C:\Thao Van\FALL 2018 EDCC\Yahtzee\Yahtzee\bin\Debug\Yahtzee.exe.config
+C:\Thao Van\FALL 2018 EDCC\Yahtzee\Yahtzee\bin\Debug\Yahtzee.exe
+C:\Thao Van\FALL 2018 EDCC\Yahtzee\Yahtzee\bin\Debug\Yahtzee.pdb
+C:\Thao Van\FALL 2018 EDCC\Yahtzee\Yahtzee\bin\Debug\Yahtzee.xml
+C:\Thao Van\FALL 2018 EDCC\Yahtzee\Yahtzee\obj\Debug\Yahtzee.vbprojAssemblyReference.cache
+C:\Thao Van\FALL 2018 EDCC\Yahtzee\Yahtzee\obj\Debug\Yahtzee.Yahtzee.resources
+C:\Thao Van\FALL 2018 EDCC\Yahtzee\Yahtzee\obj\Debug\Yahtzee.Resources.resources
+C:\Thao Van\FALL 2018 EDCC\Yahtzee\Yahtzee\obj\Debug\Yahtzee.vbproj.GenerateResource.cache
+C:\Thao Van\FALL 2018 EDCC\Yahtzee\Yahtzee\obj\Debug\Yahtzee.vbproj.CoreCompileInputs.cache
+C:\Thao Van\FALL 2018 EDCC\Yahtzee\Yahtzee\obj\Debug\Yahtzee.exe
+C:\Thao Van\FALL 2018 EDCC\Yahtzee\Yahtzee\obj\Debug\Yahtzee.xml
+C:\Thao Van\FALL 2018 EDCC\Yahtzee\Yahtzee\obj\Debug\Yahtzee.pdb
